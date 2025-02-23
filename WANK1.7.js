@@ -1,14 +1,13 @@
 // ==UserScript==
-// @name         Winners Always Need Knowledge (Flatline)
-// @namespace    https://github.com/MCSH
-// @version      0.17
+// @name         Current Uncoded Combat Knowledge (Flatline)
+// @namespace    https://github.com/mtxve
+// @version      0.17.1
 // @description  Send callout orders to discord from torn.
 // @author       MCSH, Updated by Asemov (Removed custom API requests & fixed chat clear issue)
 // @match        https://www.torn.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
 // @grant        GM.xmlHttpRequest
 // @require      https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.2/waitForKeyElements.js
-// @connect      tornado.heydaris.com
 // ==/UserScript==
 
 (function() {
